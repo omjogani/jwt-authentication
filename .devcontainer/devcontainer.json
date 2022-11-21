@@ -22,7 +22,7 @@
 				"rangav.vscode-thunder-client"
 			],
 			"settings": {
-				"editor.fontSize": 25,
+				"editor.fontSize": 20,
 				"terminal.integrated,fontSize": 20
 			}
 		}
