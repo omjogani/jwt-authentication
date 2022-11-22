@@ -19,10 +19,11 @@
 		"vscode": {
 			"extensions": [
 				"esbenp.prettier-vscode",
-				"rangav.vscode-thunder-client"
+				"rangav.vscode-thunder-client",
+				"PKief.material-icon-theme"
 			],
 			"settings": {
-				"editor.fontSize": 20,
+				"editor.fontSize": 16,
 				"terminal.integrated,fontSize": 20
 			}
 		}
